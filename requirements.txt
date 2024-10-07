@@ -1,1 +1,6 @@
-pip install streamlit pandas plotly
+uv pip install streamlit
+uv pip install pandas
+uv pip install plotly
+streamlit==1.24.0
+pandas==2.0.3
+plotly==5.15.0
